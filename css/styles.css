@@ -157,7 +157,8 @@ p {
 }
 
 hr {
-    border: dotted #4c4e4e 6px;
+    /*border: dotted #4c4e4e 6px;*/
+    border: dotted #62dada 6px;
     border-bottom: none;
     width: 4%;
     margin: 100px auto;
@@ -168,11 +169,11 @@ hr {
 }
 
 .sherintro {
-    color: rgb(7, 0, 0);
+    color: whitesmoke;
 }
 
 .sher {
-    color: black;
+    color: white;
     font-size: large;
     font-style: italic, bold;
     font-family: Garamond;
